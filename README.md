@@ -6,7 +6,7 @@
 
 [![Flatris](flatris.gif)](https://flatris.space/)
 
-> **Contribution disclaimer:** Flatris is a web game with an opinionated feature set and architectural design. It doesn't have a roadmap. While I'm generally open to ideas, I would advise against submitting unannounced PRs with new or modified functionality. That said, **bug reports and fixes are most appreciated.**
+> **Contribution disclaimer:** Flatris is a test web game with an opinionated feature set and architectural design. It doesn't have a roadmap. While I'm generally open to ideas, I would advise against submitting unannounced PRs with new or modified functionality. That said, **bug reports and fixes are most appreciated.**
 
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
